@@ -72,3 +72,8 @@ FreeThrowsAttemps
 #Accuracy of  Free Throws
 Accuracy <- round((FreeThrows/FreeThrowsAttemps)*100,2)
 Accuracy
+
+#Player playing style (2 vs 3 points preference) excluding Free Throws*
+PlayerPlayingStyle <- round(((Points - FreeThrows)/FieldGoals),2)
+PlayerPlayingStyle
+FieldGoals
