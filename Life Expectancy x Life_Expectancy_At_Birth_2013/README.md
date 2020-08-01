@@ -5,5 +5,4 @@ Categorised by Countries’ Regions.
 
 
 
-![](C:/Users/Nilson/Documents/RStudio/DataFrame/1960.jpg)
- <img src=”C:/Users/Nilson/Documents/RStudio/DataFrame/1960.jpg”>
+ ![alt text](C:/Users/Nilson/Documents/RStudio/DataFrame/graphic1.png)
